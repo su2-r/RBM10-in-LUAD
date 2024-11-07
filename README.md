@@ -1,6 +1,5 @@
 # RBM10 in LUAD
-Visualization of RNA and Protein expression of RMB10 with MAPK and PI3K
-pathways and EGFR grouped by sex and existence of RMB10 SNVs
+Visualization of RNA and Protein expression of RMB10 with MAPK and PI3K pathways and EGFR grouped by sex and existence of RMB10 SNVs
 
 **Introduction**
 
